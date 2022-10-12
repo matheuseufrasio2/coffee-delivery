@@ -6,7 +6,7 @@ export function Cart() {
   return (
     <Container>
       <h1>
-        Cart
+        This is a cart
       </h1>
     </Container>
   );
